@@ -6928,7 +6928,7 @@ G2L["26e"]["TextColor3"] = Color3.fromRGB(124, 124, 124);
 G2L["26e"]["BackgroundTransparency"] = 1;
 G2L["26e"]["Size"] = UDim2.new(0.40809, 0, 0.07357, 0);
 G2L["26e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["26e"]["Text"] = [[Sway v1.02]];
+G2L["26e"]["Text"] = [[Sway v1.03]];
 G2L["26e"]["LayoutOrder"] = 2;
 G2L["26e"]["Name"] = [[Version]];
 G2L["26e"]["Position"] = UDim2.new(0.29544, 0, 0.02452, 0);
@@ -7021,7 +7021,7 @@ G2L["277"]["TextColor3"] = Color3.fromRGB(124, 124, 124);
 G2L["277"]["BackgroundTransparency"] = 1;
 G2L["277"]["Size"] = UDim2.new(0.12893, 0, 1, 0);
 G2L["277"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["277"]["Text"] = [[V1.02]];
+G2L["277"]["Text"] = [[V1.03]];
 G2L["277"]["Name"] = [[Version]];
 G2L["277"]["Position"] = UDim2.new(0.057, 0, 0, 0);
 
