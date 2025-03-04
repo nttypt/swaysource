@@ -13082,7 +13082,7 @@ local function C_269()
 local script = G2L["269"];
 	local userInputService = game:GetService("UserInputService")
 	
-	local npc = game.Workspace:FindFirstChild("Rig") -- Change "NPC" to your NPC's name
+	local npc = game.Workspace:FindFirstChild("TattooDummy") -- Change "NPC" to your NPC's name
 	if not npc then
 		warn("NPC not found in Workspace!")
 		return
